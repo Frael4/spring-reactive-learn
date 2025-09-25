@@ -20,7 +20,7 @@ public class SpringReactiveLearnApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 
-		monoVsFlux();
+		//monoVsFlux();
 	}
 
 	public void monoVsFlux(){
